@@ -1,1 +1,1 @@
-Fixed bug in login module
+Fixed critical login issue
